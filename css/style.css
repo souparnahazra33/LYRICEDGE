@@ -190,7 +190,7 @@ span {
 /* header  */
 /* banner section  */
 .banner {
-    background: linear-gradient(rgba(0, 0, 0, 0.5)), url(/images/banner.png)no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.5)), url(../images/banner.png)no-repeat;
     min-height: 100vh;
     background-size: cover;
     background-position: center center;
@@ -1714,5 +1714,6 @@ span {
 }
     /* card section 5  */
 }
+
 
 @media (min-width: 1200px) and (max-width: 1399.98px) {}
